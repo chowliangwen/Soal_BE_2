@@ -7,11 +7,11 @@ Repo ini berisi test assignment untuk calon Back-End Engineer
 | path                                                                                                                     | content             | description                                 |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------- |
 | ./bookstore_web                                                                                                          | compiled angular FE | Web tampilan sebagai sarana validasi test   |
-| [API Requirement Docs](https://docs.google.com/document/d/1HD9JKbH0g4XKj3wChmH9O6o-qv3bqeaLGLLjyB8glm8/edit?usp=sharing) | Google Docs Link    | Docs berisi Kriteria API yang harus di buat |
+| [API Requirement Docs](https://docs.google.com/document/d/1QqWf7nDTHwEueuxcDGuaiMP09JADxrFczlEdmtHj_0k/edit?usp=sharing) | Google Docs Link    | Docs berisi Kriteria API yang harus di buat |
 
 ## Tentang Assignment
 
-1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1HD9JKbH0g4XKj3wChmH9O6o-qv3bqeaLGLLjyB8glm8/edit?usp=sharing) dengan Framework sesuai preferensi masing-masing.
+1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1QqWf7nDTHwEueuxcDGuaiMP09JADxrFczlEdmtHj_0k/edit?usp=sharing) dengan Framework sesuai preferensi masing-masing.
 2. Test Jalan API yang sudah di buat di local dengan menggunakan Web yang ada di repo ini. ( cara installasi dan running ada di bawah )
 3. Batas waktu pengerjaan 3 hari, setelah itu kirim Email ke: dev.centurynet@gmail.com berisi :
 
@@ -74,4 +74,4 @@ lite-server -c bs-config.json
 # Perlu berada di dalam folder /bookstore_web untuk menjalankan command
 ```
 
-6. Ketika selesai eksekusi web akan terbuka otomatis di browser default dan dapat diakses di `http://localhost:YourAssignedPort` (port sesuai settingan). Kalian bisa jalankan API yang sudah di buat dan mulai test dengan web ini
+6. Ketika selesai eksekusi web akan terbuka otomatis di browser default dan dapat diakses di `http://localhost:YourAssignedPort` (port sesuai settingan). Kalian bisa jalankan API yang sudah di buat dan mulai test final dengan web ini
