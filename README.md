@@ -13,7 +13,7 @@ Repo ini berisi test assignment untuk calon Back-End Engineer
 
 1. Buat aplikasi Back-End sesuai kriteria [API Requirement Docs](https://docs.google.com/document/d/1QqWf7nDTHwEueuxcDGuaiMP09JADxrFczlEdmtHj_0k/edit?usp=sharing) dengan Framework sesuai preferensi masing-masing.
 2. Test Jalan API yang sudah di buat di local dengan menggunakan Web yang ada di repo ini. ( cara installasi dan running ada di bawah )
-3. Batas waktu pengerjaan 3 hari, setelah itu kirim Email ke: dev.centurynet@gmail.com berisi :
+3. Batas waktu pengerjaan 5 hari, setelah itu kirim Email ke: steven@econolab.co.id berisi :
 
    Subject :
 
@@ -25,7 +25,7 @@ Repo ini berisi test assignment untuk calon Back-End Engineer
 
    ```
    Nama : Anon
-   Posisi : Back-End 1
+   Posisi : Back-End 2
    Repo : https://github.com
    Keterangan : ( Penjelasan singkat tentang Framework yang di pakai, db yang dipakai, atau teknologi lain yang di pakai, dll )
 
